@@ -101,7 +101,7 @@ function ContactSection() {
                                 >
                                     <Linkedin />
                                 </a>
-                                <a href='https://www.instagram.com/?utm_source=pwa_homescreen&__pwa=1'
+                                <a href='https://www.instagram.com/a.darsh._00?igsh=eDg3YXc0b2k1ejVt'
                                     target='_blank'
                                 >
                                     <Instagram />
